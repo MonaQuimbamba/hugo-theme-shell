@@ -62,5 +62,5 @@ theme = "hugo-theme-shell"
     use = true
     files = [
         ["Projects", "/works/go.md"],
-        ["Contact ME", "/works/hugo.md"]
+        ["Contact-me", "https://www.linkedin.com/in/claudio-antonio-0038b8194/"]
     ]
