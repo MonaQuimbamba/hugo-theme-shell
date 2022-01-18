@@ -4,15 +4,15 @@ title = "Claudio-Antonio"
 theme = "hugo-theme-shell"
 
 [Params]
+
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
-    [Params.Terminal]
+  description = "Antonio's Portfolio!"
+  [Params.Terminal]
   # Note: color schema
   # Note: You can choose between
   # Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
   # Note: If you want to use the Goph theme, set it to "goph" (See README.md)
     schema = "monokai"
-
 
     # Note: in terminal
      # [userName]@[pcName]:~/$ cd [workDir]
@@ -40,20 +40,17 @@ theme = "hugo-theme-shell"
      commandDelay = 50 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
 
      # terminalDelay = 20 : deprecated
-
      # Note: speed at which text is displayed on the activity pages
      # Note: if set to 0, typing animation will be disabled
-     # Note:
      # Note: if you want to enable Mathjax, you need to set it to 0
      # Note: and set "math: true" at front matter in your Markdown file
      titleDelay = 0 # title speed : "title" in front matter
      contentDelay = 0 # content speed : content in .md file
-
      # activityDelay = 5 : deprecated
-
      description = """
-     Hi I am Jane Doe!
-     Nice to meet you!
+     Hi, my name is Claudio Antonio,
+     I'm student on Master's degree in cryptos at Limoges université,
+     specializing in cybersecurity  and cryptology.
 
      """
 
