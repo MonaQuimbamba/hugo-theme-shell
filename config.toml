@@ -1,6 +1,6 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://claudioantonio.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Claudio-Antonio"
 theme = "hugo-theme-shell"
 
 [Params]
@@ -27,7 +27,7 @@ theme = "hugo-theme-shell"
      # Note: result of the tree command
      userName = "Claudio-Antonio"
      pcName = "webSite"
-     workDir = "mydir"
+     workDir = "Aboutme"
      profile = "profile.txt"
 
      # Note: speed at which text is displayed on the terminal
