@@ -7,4 +7,4 @@
 $ cd .
 ```
 
-{{- $image := resources.Get "images/gitlog.jpeg" -}}
+{{< youtube wh7H35Fqkh0 >}}
