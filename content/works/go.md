@@ -9,4 +9,4 @@
 $ cd .
 ```
 
-{{- (resources.Get "gitlog.jpeg").RelPermalink -}}
+[Link text Here](https://claudio-a.netlify.app)
