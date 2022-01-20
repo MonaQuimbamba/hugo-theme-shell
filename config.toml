@@ -3,12 +3,11 @@ languageCode = "en-us"
 title = "Claudio-Antonio"
 theme = "hugo-theme-shell"
 enableInlineShortcodes = true
-menu = 'main'
 [menu]
   [menu.docs]
     parent = 'extras'
     weight = 20
-    
+
 [Params]
 
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
