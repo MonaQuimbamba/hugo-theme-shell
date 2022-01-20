@@ -64,6 +64,7 @@ enableInlineShortcodes = true
     use = true
     files = [
         ["Projects", "/works/go.md"],
-        ["Resume", "/cv/E-AntonioClaudio_CV.pdf" ,"CV", "/cv/AntonioClaudio_CV.pdf" ],
+        ["Resume", "/cv/E-AntonioClaudio_CV.pdf"],
+        ["CV", "/cv/AntonioClaudio_CV.pdf" ],
         ["Contact-me", "https://www.linkedin.com/in/claudio-antonio-0038b8194/"]
     ]
