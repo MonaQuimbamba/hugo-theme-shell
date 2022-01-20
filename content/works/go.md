@@ -3,4 +3,4 @@
 ### J2E
 
 
-![](/static/gitlog.jpeg)
+![](.../resources/_gen/images/gitlog.jpeg)
