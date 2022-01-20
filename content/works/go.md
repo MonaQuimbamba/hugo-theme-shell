@@ -9,4 +9,4 @@
 $ cd .
 ```
 
-![Example image](/static/gitlog.jpeg)
+![Example image](/gitlog.jpeg)
