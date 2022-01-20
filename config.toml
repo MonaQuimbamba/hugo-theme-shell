@@ -6,6 +6,10 @@ enableInlineShortcodes = true
 menu = 'main'
 [Params]
 
+[menu]
+  [menu.docs]
+    parent = 'extras'
+    weight = 20
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Antonio's Portfolio!"
   [Params.Terminal]
