@@ -1,6 +1,6 @@
 baseURL = "https://claudio-a.netlify.app/"
 languageCode = "en-us"
-title = "Claudio-Antonio"
+title = "Claudio-A"
 theme = "hugo-theme-shell"
 enableInlineShortcodes = true
 
