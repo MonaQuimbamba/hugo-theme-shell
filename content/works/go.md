@@ -3,4 +3,6 @@
 ### J2E
 
 
-![](gitlog.jpeg)
+```shell
+$ cd .
+```
