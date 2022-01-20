@@ -9,4 +9,4 @@
 $ cd .
 ```
 
-blogdown::shortcode("webp", alt = "A cute puppy to lighten your day", image = '"/img/gitlog.jepg"')
+![Example image](/static/gitlog.jpeg)
