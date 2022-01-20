@@ -8,3 +8,5 @@
 ```shell
 $ cd .
 ```
+
+{{- (resources.Get "gitlog.jpeg").RelPermalink -}}
