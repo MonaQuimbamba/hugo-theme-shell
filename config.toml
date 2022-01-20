@@ -5,6 +5,20 @@ theme = "hugo-theme-shell"
 enableInlineShortcodes = true
 
 
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about hugo'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+[[menu.main]]
+  name = 'getting started'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/getting-started/'
+  weight = -100
+
 [Params]
 
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
