@@ -7,4 +7,4 @@
 $ cd .
 ```
 
-{{< youtube wh7H35Fqkh0 >}}
+blogdown::shortcode("webp", alt = "A cute puppy to lighten your day", image = '"/img/gitlog.jepg"')
