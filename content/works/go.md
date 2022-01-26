@@ -3,4 +3,4 @@
 # Projects
 
 [Home](https://claudio-a.netlify.app)
-[Brute-Force](https://claudio-a.netlify.app/works/bruteForce.md/)
+[Brute-Force](https://claudio-a.netlify.app/works/bruteForce/)
