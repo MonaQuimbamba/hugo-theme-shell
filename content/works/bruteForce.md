@@ -1,11 +1,5 @@
 
-![logo](/gitlog.jpeg)
-# Projects
-
-[Home](https://claudio-a.netlify.app)
-
-<details>
-<summary>Brute Force</summary>
+# Brute-Force
 
 In this paper I'm going to share with you a tool that I made to do brute force attac.
 
@@ -39,10 +33,3 @@ there can take long time if the file has a quite a lot of words then we us threa
 
 
  [Code source on my github](https://github.com/MonaQuimbamba/TIC/blob/master/1/brute-force/bruteForceFromFile.py)
-</details>
-
----
-
-<details open>
-<summary>What Next ?</summary>
-</details>
