@@ -3,4 +3,9 @@
 # Projects
 
 [Home](https://claudio-a.netlify.app)
-[Brute-Force](https://claudio-a.netlify.app/works/bruteForce/)
+
+
+* Pentester
+  * [Brute-Force](https://claudio-a.netlify.app/works/bruteForce/)
+* IA
+  * [Learning Supervised](https://claudio-a.netlify.app/works/ia/)
