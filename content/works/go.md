@@ -8,7 +8,4 @@
 * Pentester
   * [Brute-Force](https://claudio-a.netlify.app/works/bruteForce/)
 * IA
-  * [K-Nearest Neighbors Algorithm](https://claudio-a.netlify.app/works/ia/kppv)
-  * [Bayesian network](https://claudio-a.netlify.app/works/ia/networkbayes)
-  * [Perceptron](https://claudio-a.netlify.app/works/ia/perceptron)
-  * [Neural Network](https://claudio-a.netlify.app/works/ia/networkneurones)
+  * [Supervised learning on my github](https://github.com/MonaQuimbamba/IA-Les-methodes-d-apprentissage-supervisees/tree/bayes-naif)
