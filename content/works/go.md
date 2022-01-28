@@ -8,4 +8,4 @@
 * Pentester
   * [Brute-Force](https://claudio-a.netlify.app/works/bruteForce/)
 * IA
-  * [Learning Supervised](https://claudio-a.netlify.app/works/ia/)
+  * [K-Nearest Neighbors Algorithm](https://claudio-a.netlify.app/works/ia/kppv)
