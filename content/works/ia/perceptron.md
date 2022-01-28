@@ -1,6 +1,11 @@
-## IA - Les méthodes d'apprentissage supervisees
+
+![logo](/gitlog.jpeg)
 
 
+
+## Le Perceptron
+
+[Go back](https://claudio-a.netlify.app/works/go/)
 
 ```python
 import numpy as np
@@ -21,7 +26,7 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
-## Le Perceptron
+
 
 ## -  1 Mise en place d'un perceptron simple
 

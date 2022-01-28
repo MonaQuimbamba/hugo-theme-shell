@@ -1,6 +1,12 @@
-## IA - Les méthodes d'apprentissage supervisees
+
+![logo](/gitlog.jpeg)
 
 
+
+### Réseaux de neurones 
+
+
+[Go back](https://claudio-a.netlify.app/works/go/)
 
 ```python
 import numpy as np

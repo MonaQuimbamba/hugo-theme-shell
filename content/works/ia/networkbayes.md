@@ -1,6 +1,11 @@
-## IA - Les méthodes d'apprentissage supervisees
+![logo](/gitlog.jpeg)
 
 
+
+###  Construire un modèle M3 basé sur un classifieur de type réseau de Bayes naif
+
+
+[Go back](https://claudio-a.netlify.app/works/go/)
 
 ```python
 import numpy as np
@@ -21,7 +26,7 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
-### 3 - Construire un modèle M3 basé sur un classifieur de type réseau de Bayes naif
+
 
 ###  L'exemple de l'exécution de l'algorithme
 

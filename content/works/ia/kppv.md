@@ -1,6 +1,12 @@
-## IA - Les méthodes d'apprentissage supervisees
+
+![logo](/gitlog.jpeg)
 
 
+
+### L'algorithme KppV
+
+
+[Go back](https://claudio-a.netlify.app/works/go/)
 
 ```python
 import numpy as np
@@ -21,7 +27,7 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
-### L'algorithme KppV
+
 
 Ce programme applique la méthode de discrimination de kppv sur un ensemble d'individu élément de R^2.
 
