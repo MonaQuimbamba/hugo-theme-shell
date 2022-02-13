@@ -51,8 +51,8 @@ enableInlineShortcodes = true
      Hi, my name is Claudio Antonio,
      I'm student on Master's degree in cryptos at Limoges université,
      specializing in cybersecurity  and cryptology.
-     When I'm not busy doing CTF challanges on onlines plataforme, I develop
-     software of my interest.
+     When I'm not busy doing CTF challanges on onlines plataforme, I love
+     working on hobby projects.
      """
 
      # Note: If you want to use a Markdown file, you can use the following
@@ -61,7 +61,7 @@ enableInlineShortcodes = true
     [Params.Tree]
     use = true
     files = [
-        ["Projects", "/works/go.md"],
+        ["tuto", "/works/go.md"],
         ["Resume", "/cv/E-AntonioClaudio_CV.pdf"],
         ["Contact-me", "https://www.linkedin.com/in/claudio-antonio-0038b8194/"]
     ]
